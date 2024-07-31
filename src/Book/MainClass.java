@@ -27,16 +27,16 @@ public class MainClass {
     }
 }
 */
-package Book;
-import java.util.*;
-public class MainClass {
-    public static void main(String[]args) {
-        Scanner in = new Scanner(System.in);
-        int r= in.nextInt();
-        String d=in.nextLine();
-        System.out.println(r);
-        System.out.println(d);
-
-
-    }
-}
+//package Book;
+//import java.util.*;
+//public class MainClass {
+//    public static void main(String[]args) {
+//        Scanner in = new Scanner(System.in);
+//        int r= in.nextInt();
+//        String d=in.nextLine();
+//        System.out.println(r);
+//        System.out.println(d);
+//
+//
+//    }
+//}
