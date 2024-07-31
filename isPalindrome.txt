@@ -1,0 +1,5 @@
+cece ====> not Pal
+lolo ====> not Pal
+Muhammed ====> not Pal
+lool ====> Pal
+123321 ====> Pal

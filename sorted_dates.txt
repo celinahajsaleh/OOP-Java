@@ -1,0 +1,6 @@
+10-08-2020
+Holidays{holidayName='Christmas'} 25-12-2020
+20-05-2021
+20-03-2023
+Holidays{holidayName='Labor Day'} 01-05-2023
+Holidays{holidayName='New Year'} 01-01-2025

@@ -1,0 +1,3 @@
+Cylinder[Shape{radius=5.0, color='Black', dateCreated=Wed Jun 05 12:14:27 EEST 2024}, height=6.0]
+Area: 345.5751918948772
+Volume: 471.23889803846896
